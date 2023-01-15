@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Berat, I am from Erzincan 👋
+![Design and Development](https://github.com/beratyildizer/beratyildizer/blob/main/zrGK5y.png)
 ### 🔭 I’m currently working on Numesys
 ### 🌱 I’m currently learning C++
 ### 💬 Ask me about C/C++
