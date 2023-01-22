@@ -3,8 +3,11 @@
 ### 🔭 I’m currently working on Numesys and Anova.
 ### 🌱 I’m currently learning C++
 ### 💬 Ask me about C/C++
+### Extra point, I have experience and interest on Model Based Software Development for safety critical systems.
 ### 📫 How to reach me: beratyildizer24@gmail.com
 ### 🌱 Last point, my goal is to learn Linux operating system after accessing my target level for C++.
+
+
 
 <!--
 **beratyildizer/beratyildizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
