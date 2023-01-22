@@ -4,7 +4,7 @@
 ### 🌱 I’m currently learning C++
 ### 💬 Ask me about C/C++
 ### 📫 How to reach me: beratyildizer24@gmail.com
-Last point, my goal is to learn Linux operating system after accessing my target level for C++.
+### 🌱 Last point, my goal is to learn Linux operating system after accessing my target level for C++.
 
 <!--
 **beratyildizer/beratyildizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
