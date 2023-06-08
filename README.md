@@ -1,11 +1,10 @@
-### Hi there, I am Berat, I am from Erzincan 👋
+### Hi there, I am Berat.👋
 ![Design and Development](https://github.com/beratyildizer/beratyildizer/blob/main/zrGK5y.png)
 ### 🔭 I’m currently working on Numesys and Anova.
-### 🌱 I’m currently learning C++
-### 💬 Ask me about C/C++
-### Extra point, I have experience and interest on Model Based Software Development for safety critical systems.
+### 💬 Ask me about C/C++, RTOS, Bare Metal programming.
+### 🌱 I have also strong experience and interest on Model Based Software Development for safety critical systems especialy for avionic domain.
 ### 📫 How to reach me: beratyildizer24@gmail.com
-### 🌱 Last point, my goal is to learn Linux operating system after accessing my target level for C++.
+### 🌱 I am currently learning Linux.
 
 
 
