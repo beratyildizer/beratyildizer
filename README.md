@@ -1,4 +1,4 @@
-### Hi there, I am Berat.👋
+### Welcome to my profile:)), I'm Berat.👋
 ![Design and Development](https://github.com/beratyildizer/beratyildizer/blob/main/zrGK5y.png)
 ### 🔭 I’m currently working on Numesys and Anova.
 ### 💬 Ask me about C/C++, RTOS, Bare Metal programming.
