@@ -1,6 +1,5 @@
 ### Welcome to my profile:)), I'm Berat.👋
-![Design and Development](![image](https://github.com/user-attachments/assets/bcd71302-a2b3-4d1a-b36f-71716cb3d9bb)
-)
+### ![image](https://github.com/user-attachments/assets/56275952-5965-46e8-aaad-ded8bb2fd8cb)
 ### 🔭 I’m currently working on Numesys and Anova.
 ### 💬 Ask me about C, C++, UNIX/LINUX, Algorithms and Data Structures, RTOS, Bare Metal programming.
 ### 🌱 I have also strong experience and interest on Model Based Software Development for safety critical systems especialy for avionic domain as well as experience in DO-178C guideline.
