@@ -1,6 +1,6 @@
 ### Welcome to my profile:)), I'm Berat.👋
 ### 🔭 I’m currently working on Anova.
-### 💬 Ask me about C, C++, UNIX/LINUX, Algorithms and Data Structures, RTOS, Bare Metal programming.
+### 💬 Ask me about C, C++, LINUX, Algorithms and Data Structures, RTOS, Bare Metal programming.
 ### 🌱 I have also strong experience and interest on Model Based Software Development for safety critical systems especialy for avionic domain as well as experience in DO-178C guideline.
 ### 📫 How to reach me: beratyildizer24@gmail.com
 
