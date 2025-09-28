@@ -1,7 +1,7 @@
-🔭 Currently working at Anova.
-💬 Ask me about C, C++, Linux, Data Structures, RTOS, and Bare Metal Firmware Development.
-🌱 I have strong experience and interest in Model-Based Software Development for safety-critical systems, especially in the avionics domain, with solid knowledge of the DO-178C guideline.
-📫 You can reach me at: beratyildizer24@gmail.com
+### 🔭 Currently working at Anova.
+### 💬 Ask me about C, C++, Linux, Data Structures, RTOS, and Bare Metal Firmware Development.
+### 🌱 I have strong experience and interest in Model-Based Software Development for safety-critical systems, especially in the avionics domain, with solid knowledge of the DO-178C guideline.
+### 📫 You can reach me at: beratyildizer24@gmail.com
 
 
 
