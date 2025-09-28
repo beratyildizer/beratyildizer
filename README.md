@@ -1,8 +1,7 @@
-### Welcome to my profile:)), I'm Berat.👋
-### 🔭 I’m currently working on Anova.
-### 💬 Ask me about C, C++, LINUX, Data Structures, RTOS, Bare Metal firmware development.
-### 🌱 I have also strong experience and interest on Model Based Software Development for safety critical systems especialy for avionic domain as well as experience in DO-178C guideline.
-### 📫 How to reach me: beratyildizer24@gmail.com
+🔭 Currently working at Anova.
+💬 Ask me about C, C++, Linux, Data Structures, RTOS, and Bare Metal Firmware Development.
+🌱 I have strong experience and interest in Model-Based Software Development for safety-critical systems, especially in the avionics domain, with solid knowledge of the DO-178C guideline.
+📫 You can reach me at: beratyildizer24@gmail.com
 
 
 
